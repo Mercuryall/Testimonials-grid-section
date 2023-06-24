@@ -62,10 +62,10 @@ body {
 }
 
 .img-quotation-marks {
-  width: 8.1%;
-  height: 16.5%;
+  width: 110px;
+  height: 108px;
   position: absolute;
-  transform: translate(383px, 0%);
+  transform: translate(382px, 0);
 }
 
 .author-img {
@@ -156,8 +156,8 @@ span {
   }
 
   .img-quotation-marks {
-    width: 26%;
-    height: 15.5%;
+    width: 100px;
+    height: 105px;
     position: absolute;
     transform: translate(193px, 0%);
   }
